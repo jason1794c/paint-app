@@ -17,7 +17,7 @@ public class PaintApp {
     public static void main(String[] args) {
         
         App paintApp = new App();
-        
+        System.out.println("This is a really cool string!");
     }
     
 }
